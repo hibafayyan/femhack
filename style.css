@@ -27,3 +27,7 @@ color: blue;}
     transform: scale(1.2);
     box-shadow: 0 0 30px #9ecaed;
 }
+
+.custom{
+    max-width: 210px;
+}
