@@ -1,0 +1,29 @@
+span{
+    background-color: yellow;
+}
+ul{
+    list-style-type: none;
+}
+
+ ul li{
+    font-weight: 500;
+}
+
+.Integrations{
+    background-color:white;
+color: blue;}
+
+
+.tick{
+    list-style-type:none;
+}
+
+
+.scale{
+    transition: transform 0.6s  ease-in-out , box-shadow 0.3s ease-in-out;
+}
+
+.scale:hover{
+    transform: scale(1.2);
+    box-shadow: 0 0 30px #9ecaed;
+}
