@@ -31,3 +31,7 @@ color: blue;}
 .custom{
     max-width: 210px;
 }
+
+body{
+    overflow-x: hidden;
+}
